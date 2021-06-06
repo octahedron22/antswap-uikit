@@ -27,3 +27,6 @@ export { default as FaucetIcon } from "./Faucet";
 export { default as AirdropIcon } from "./Airdrop";
 export { default as PriceGuardIcon } from "./PriceGuard";
 export { default as ChartIcon } from "./Chart";
+export { default as AntIcon } from "./Ant";
+export { default as AntHillIcon } from "./AntHill";
+export { default as AuditIcon } from "./Audit";

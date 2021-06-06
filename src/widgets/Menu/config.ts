@@ -94,10 +94,6 @@ export const links = [
     icon: "MoreIcon",
     items: [
       {
-        label: "Voting",
-        href: "https://voting.pantherswap.com",
-      },
-      {
         label: "Github",
         href: "https://github.com/pancakeswap",
       },
@@ -117,22 +113,22 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/pantherswap",
+    href: "https://github.com/antswap",
   },
   {
     label: "Docs",
     icon: "GitbookIcon",
-    href: "https://docs.pantherswap.com",
+    href: "https://docs.antswap.fi",
   },
   {
     label: "Medium",
     icon: "MediumIcon",
-    href: "https://pantherswap.medium.com",
+    href: "https://antswap.medium.com",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PantherSwap",
+    href: "https://twitter.com/ant_swap",
   },
   {
     label: "Telegram",
@@ -140,11 +136,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/PantherSwap",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/PantherSwapAnn",
+        href: "https://t.me/AntSwapGroup",
       },
     ],
   },
