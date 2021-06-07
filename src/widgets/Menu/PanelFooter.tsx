@@ -65,6 +65,7 @@ const PanelFooter: React.FC<Props> = ({
   currentLang,
   langs,
   setLang,
+  auditLink,
 }) => {
   if (!isPushed) {
     return (
@@ -78,7 +79,7 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
-      <Image src="/images/rugdoc-review-badge-with-glow.png" width={230} height={98} />
+      <a href={auditLink}><Image src="/images/rugdoc-review-badge-with-glow.png" width={230} height={98} /></a>
       <SocialEntry>
         {cakePriceUsd ? (
           <PriceLink href={cakePriceLink} target="_blank">
