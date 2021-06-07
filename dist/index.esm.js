@@ -2412,6 +2412,7 @@ var PanelFooter = function (_a) {
                 React.createElement(Icon$l, null))));
     }
     return (React.createElement(Container$4, null,
+        React.createElement(Image, { src: "/images/rugdoc-review-badge-with-glow.png", width: 230, height: 98 }),
         React.createElement(SocialEntry, null,
             cakePriceUsd ? (React.createElement(PriceLink, { href: cakePriceLink, target: "_blank" },
                 React.createElement(Icon$w, { width: "24px", mr: "8px" }),

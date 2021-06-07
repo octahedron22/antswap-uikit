@@ -2425,6 +2425,7 @@ var PanelFooter = function (_a) {
                 React__default['default'].createElement(Icon$l, null))));
     }
     return (React__default['default'].createElement(Container$4, null,
+        React__default['default'].createElement(Image, { src: "/images/rugdoc-review-badge-with-glow.png", width: 230, height: 98 }),
         React__default['default'].createElement(SocialEntry, null,
             cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: cakePriceLink, target: "_blank" },
                 React__default['default'].createElement(Icon$w, { width: "24px", mr: "8px" }),
